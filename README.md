@@ -44,3 +44,15 @@ Lead Input → AI Analysis → Scoring → Categorization → Action Recommendat
   "reason": "High budget + urgent requirement",
   "next_action": "Call within 10 minutes"
 }
+
+## 🏗️ Tech Stack (update later)
+- Python / JavaScript  
+- OpenAI API  
+- Replit / Vercel  
+- FastAPI / Flask (optional)  
+
+## 🚀 Goal
+Improve solar sales efficiency by automating lead qualification using AI.
+
+## 📌 Status
+MVP (Minimum Viable Product)
